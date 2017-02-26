@@ -1,0 +1,26 @@
+{
+  "name": "atom-ywh-utils",
+  "main": "./lib/atom-ywh-utils",
+  "version": "0.2.0",
+  "description": "My atom util package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "atom-ywh-utils:toggle",
+      "atom-ywh-utils:scrollUp10rows",
+      "atom-ywh-utils:scrollDown10rows",
+      "atom-ywh-utils:repeateByTimes",
+      "atom-ywh-utils:evalSelected",
+      "atom-ywh-utils:insertTwoSide",
+      "atom-ywh-utils:pasteAfter"
+    ]
+  },
+  "repository": "https://github.com/alucardlockon/MyAtomPackageAndConfig",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

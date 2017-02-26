@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-ywh-utils",
+        "command": "atom-ywh-utils:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-ywh-utils",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-ywh-utils:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
