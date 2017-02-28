@@ -14,6 +14,7 @@
       "atom-ywh-utils:evalSelected",
       "atom-ywh-utils:insertTwoSide",
       "atom-ywh-utils:pasteAfter",
+      "atom-ywh-utils:pasteBefore",
       "atom-ywh-utils:pasteWithJson",
       "atom-ywh-utils:pasteWithArray"
     ]
