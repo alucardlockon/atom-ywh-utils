@@ -1,7 +1,7 @@
 {
   "name": "atom-ywh-utils",
   "main": "./lib/atom-ywh-utils",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "My atom util package",
   "keywords": [
   ],
@@ -16,7 +16,8 @@
       "atom-ywh-utils:pasteAfter",
       "atom-ywh-utils:pasteBefore",
       "atom-ywh-utils:pasteWithJson",
-      "atom-ywh-utils:pasteWithArray"
+      "atom-ywh-utils:pasteWithArray",
+      "atom-ywh-utils:trimSpacesAndTabs"
     ]
   },
   "repository": "https://github.com/alucardlockon/atom-ywh-utils",
